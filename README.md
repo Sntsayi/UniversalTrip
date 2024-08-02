@@ -2,15 +2,15 @@
 
 In this project i Use this library:
 
-    -React-Router : I use React-Router to make a single page appplication (SPA) to get the best user exprience and flunecy application
+    -React-Router : I use React-Router to make a Single Page Application (SPA) to get the best user exprience and fluency application
 
 Hooks i used in this project:
 
     -UseState() / useEffet() / useRef() / useMemo() / useCallBack() / Custum hooks (useGeoLocation() and useUrlPosition())
 
-I also use Context Api to get access some state instead of nesting prob in component , and this is so important feature in this project . i create 3 context in this project (citiesContext , FakeAuthContext , OpenorCLoseNavBarContext)
+I also use Context Api to get access some state instead of nesting prop in components , and this is so important feature in this project . i create 3 context in this project (citiesContext , FakeAuthContext , OpenorCLoseNavBarContext)
 
--- this project haven't component that take a lot of time to render and make our applicatio n laggy ,but also i think about the performance optimization, and i use memo for some components and useMemo() to memoize the some values and useCallBack() to memoize the some function
+-- this project haven't component that take a lot of time to render and make our application laggy ,but also i think about the performance optimization, and i use memo for some components and useMemo() to memoize the some values and useCallBack() to memoize the some function
 
 -- I also use the Fake Api and i create that from json-server and use it in project and this is very interesting.
 
