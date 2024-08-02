@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "3531",
+      "cityName": "Parsabad",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-07-26T14:30:37.170Z",
+      "notes": "our home",
+      "position": {
+        "lat": "39.636628651234375",
+        "lng": "47.908201217651374"
+      }
+    },
+    {
+      "id": "aa68",
+      "cityName": "Parsabad",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-07-27T10:37:39.950Z",
+      "notes": "test",
+      "position": {
+        "lat": "39.646439233818136",
+        "lng": "47.85781860351563"
+      }
+    }
+  ]
+}
