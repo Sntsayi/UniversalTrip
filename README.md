@@ -16,7 +16,7 @@ I also use Context Api to get access some state instead of nesting prop in compo
 
 -- Also i used Css modules , to styled the components .
 
-hint: To start and see the project ,first install in terminal : npm i , secend : npm run server (to use fake api) , third : npm run dev
+hint: To start and see the project ,first install in terminal : npm i , secend :in another terminal write: npm run server (to use fake api) , third : in another terminal: npm run dev
 
 
 
